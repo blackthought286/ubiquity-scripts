@@ -13,5 +13,6 @@ CmdUtils.CreateCommand({
 		var url = "http://www.scribd.com/search/search?query=" + newCmd + "&x=0&y=0";
 		//openUrl(url);
         Utils.openUrlInBrowser(url);
+		//just checking
 	}
 });
